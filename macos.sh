@@ -273,3 +273,4 @@ if [[ ${NO_FRAMEWORK} -ne 1 ]]; then
 else
   echo -e "INFO: Skipped creating macOS frameworks.\n" 1>>"${BASEDIR}"/build.log 2>&1
 fi
+
